@@ -1,4 +1,4 @@
 # hello-world
 Coursera - continuous integration course 
 
-Just trying out the Github features
+Just trying out Github features
